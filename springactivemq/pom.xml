@@ -19,9 +19,6 @@
             <groupId>org.springframework</groupId>
             <artifactId>spring-webmvc</artifactId>
         </dependency>
-        
-        
-        <!-- xbean 
         <dependency>
             <groupId>org.springframework</groupId>
             <artifactId>spring-jms</artifactId>
@@ -30,14 +27,11 @@
             <groupId>org.apache.xbean</groupId>
             <artifactId>xbean-spring</artifactId>
             <version>4.5</version>
-        </dependency>-->
-        
-        <!-- embedded activemq
+        </dependency>
         <dependency>
             <groupId>org.apache.activemq</groupId>
             <artifactId>activemq-all</artifactId>
             <version>5.14.0</version>
         </dependency>
-         -->
     </dependencies>
 </project>
