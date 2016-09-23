@@ -10,9 +10,10 @@
     <description>Springframework Laboratory :: parent pom</description>
 
     <modules>
-        <module>springactivemq</module>
         <module>springcore</module>
         <module>springmvc</module>
+		<module>springactivemq</module>
+		<module>springcache</module>
     </modules>
     
     <properties>
